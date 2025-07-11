@@ -9,7 +9,7 @@ LINK
 
 **compiler** : This folder contains the main code of the Vasuki compiler.
 
-**Vasuki_docs **: This folder contains the code of the documentation website.
+**Vasuki_docs**: This folder contains the code of the documentation website.
 
 **Vasuki_extension**: This folder contains the code of the Vasuki extension which is currently live on VS Code!
 
