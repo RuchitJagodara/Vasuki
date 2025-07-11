@@ -3,7 +3,7 @@ The name of this programming language comes from Hindu mythology, where Vasuki i
 A compiler for a custom language made by me and my friends.
 
 # Language Documentation 
-LINK
+[LINK](https://pranjal15195gaur.github.io/Vasuki/)
 
 # Folder structure
 
