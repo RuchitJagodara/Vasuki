@@ -5,6 +5,10 @@ A compiler for a custom language made by me and my friends.
 # Language Documentation 
 [LINK](https://pranjal15195gaur.github.io/Vasuki/)
 
+# Presenetation Link
+
+[LINK](https://www.canva.com/design/DAGioldU_lE/pAPgbXVjm6OvF0VJSiTFaw/edit?utm_content=DAGioldU_lE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # Folder structure
 
 **compiler** : This folder contains the main code of the Vasuki compiler.
