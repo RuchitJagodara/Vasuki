@@ -2,6 +2,16 @@
 The name of this programming language comes from Hindu mythology, where Vasuki is the name of a serpent king who is often depicted as a powerful and wise figure. The programming language is named after him to symbolize strength, flexibility, or the ability to handle complex tasks. 
 A compiler for a custom language made by me and my friends.
 
+# Updates
+
+You can try out our new Vasuki extension which is live on VS code! Just search "Vasuki extension" in the extension window and it will appear.
+
+# Note
+
+After internal discussions, we've decided to keep the full source code private until the official language launch. However, we are excited to share that the second milestone of our project is now available for you to try. This is a working version, and we welcome your feedback. We look forward to eventually open-sourcing the entire project. 
+
+And sorry for the lack of documentation on the same, the documentation on how to download and use the language will be published in August, 2025.
+
 # Language Documentation 
 [LINK](https://pranjal15195gaur.github.io/Vasuki/)
 
